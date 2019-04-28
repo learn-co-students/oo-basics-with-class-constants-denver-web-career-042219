@@ -10,7 +10,6 @@ class Shoe
    #  if BRANDS.none?(brand)
    # BRANDS << brand
   end
-  end
 
   def cobble
     self.condition = "new"
